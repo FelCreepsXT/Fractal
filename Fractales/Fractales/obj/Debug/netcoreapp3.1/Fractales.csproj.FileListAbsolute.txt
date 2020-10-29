@@ -1,0 +1,15 @@
+E:\Fractales\Fractales\Fractales\bin\Debug\netcoreapp3.1\Fractales.exe
+E:\Fractales\Fractales\Fractales\bin\Debug\netcoreapp3.1\Fractales.deps.json
+E:\Fractales\Fractales\Fractales\bin\Debug\netcoreapp3.1\Fractales.runtimeconfig.json
+E:\Fractales\Fractales\Fractales\bin\Debug\netcoreapp3.1\Fractales.runtimeconfig.dev.json
+E:\Fractales\Fractales\Fractales\bin\Debug\netcoreapp3.1\Fractales.dll
+E:\Fractales\Fractales\Fractales\bin\Debug\netcoreapp3.1\Fractales.pdb
+E:\Fractales\Fractales\Fractales\obj\Debug\netcoreapp3.1\Fractales.csprojAssemblyReference.cache
+E:\Fractales\Fractales\Fractales\obj\Debug\netcoreapp3.1\Fractales.Form1.resources
+E:\Fractales\Fractales\Fractales\obj\Debug\netcoreapp3.1\Fractales.csproj.GenerateResource.cache
+E:\Fractales\Fractales\Fractales\obj\Debug\netcoreapp3.1\Fractales.AssemblyInfoInputs.cache
+E:\Fractales\Fractales\Fractales\obj\Debug\netcoreapp3.1\Fractales.AssemblyInfo.cs
+E:\Fractales\Fractales\Fractales\obj\Debug\netcoreapp3.1\Fractales.csproj.CoreCompileInputs.cache
+E:\Fractales\Fractales\Fractales\obj\Debug\netcoreapp3.1\Fractales.dll
+E:\Fractales\Fractales\Fractales\obj\Debug\netcoreapp3.1\Fractales.pdb
+E:\Fractales\Fractales\Fractales\obj\Debug\netcoreapp3.1\Fractales.genruntimeconfig.cache
